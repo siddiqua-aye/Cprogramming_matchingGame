@@ -1,5 +1,5 @@
 # Cprogramming_matchingGame
-Matching game using C programming.
+Matching game using C# programming language.
 
 ## Project Details
 
