@@ -1,4 +1,4 @@
-# Cprogramming_matchingGame
+# C#programming_matchingGame
 Matching game using C# programming language.
 
 ## Project Details
