@@ -1,6 +1,8 @@
 # C#programming_matchingGame
 Matching game using C# programming language.
 
+![image](https://user-images.githubusercontent.com/82129736/118905039-fe1a6c00-b8e8-11eb-913a-a294a5e176ac.png)
+
 ## Project Details
 
 This Windows Form Application is created from Microsoft Visual Studios. 
